@@ -1,0 +1,15 @@
+{
+  "feedback": "Online Feedback",
+  "desc": "Provide your requirement,we will reply to you immediately",
+  "name": "Name",
+  "phone": "Tel",
+  "company": "Company Name",
+  "consult-content": "Content Description",
+  "placeholder": {
+    "name": "Please enter your name",
+    "phone": "Please enter your phone number",
+    "company": "Please enter your company name",
+    "consult-content": "Please input your requirement"
+  },
+  "send": "Send"
+}
