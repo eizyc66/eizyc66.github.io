@@ -21,7 +21,13 @@
     "dial": "Dial"
   },
   "hotline": {
-    "after-sales": "After-sales Hotline",
+    "after_sales": "After-sales Hotline",
     "cooperation": "Official Cooperation Hotline"
-  }
+  },
+  "AC_type":{
+    "household_AC": "Residential Air-conditioning",
+    "commercial_AC": "Commercial Air-conditioning",
+    "special_AC": "Special Air-conditioning"
+  },
+  "productType": "Product Type"
 }

@@ -21,7 +21,13 @@
     "dial": "拨打电话"
   },
   "hotline": {
-    "after-sales": "全国售后热线",
+    "after_sales": "全国售后热线",
     "cooperation": "官方合作热线"
-  }
+  },
+  "AC_type":{
+    "household_AC": "家用空调",
+    "commercial_AC": "商用空调",
+    "special_AC": "特种空调"
+  },
+  "productType": "产品类型"
 }
